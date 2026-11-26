@@ -1,0 +1,8 @@
+{
+  "name": "handoff-kit",
+  "version": "1.0.0",
+  "description": "Generate a plain-language client handoff kit (owner's guide, admin how-tos, troubleshooting, accounts checklist, test summary) for a finished software project.",
+  "author": { "name": "Joel C., Lens Intelligence LLC" },
+  "license": "MIT",
+  "keywords": ["handoff", "documentation", "freelance", "client"]
+}

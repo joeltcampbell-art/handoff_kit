@@ -1,0 +1,9 @@
+# Never commit real environment files.
+.env*
+**/.env*
+# ...except examples, and the deliberate leak-test fixture.
+!.env.example
+!**/.env.example
+!sample-project/.env.local
+node_modules/
+.DS_Store

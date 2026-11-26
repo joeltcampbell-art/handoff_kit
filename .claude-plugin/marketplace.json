@@ -1,0 +1,11 @@
+{
+  "name": "handoff-kit",
+  "owner": { "name": "Joel C., Lens Intelligence LLC" },
+  "plugins": [
+    {
+      "name": "handoff-kit",
+      "source": "./",
+      "description": "Generate a plain-language client handoff kit for a finished software project."
+    }
+  ]
+}
